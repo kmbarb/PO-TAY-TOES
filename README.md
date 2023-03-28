@@ -1,6 +1,6 @@
 # PO-TAY-TOES
 
-#This is my final project for Code Kentucky's Data Analysis 1 course. Ideally, it will be ran in Google Colab. The user will mount drive, upload the file named potato_pictures to Drive>MyDrive, then all of the file paths should stay the same. 
+#This is my final project for Code Kentucky's Data Analysis 1 course. Ideally, it will be ran in Google Colab. The user will mount drive, upload the file named potato_pictures to drive>MyDrive, then all of the file paths should stay the same. 
 
 The libraries used are built into Google Colab, such as pandas and matplot lib. 
 

@@ -4,4 +4,6 @@
 
 The libraries used are built into Google Colab, such as pandas and matplot lib. 
 
-Features of this project include: a dictionary, data read in from a local csv, manipulated (sorted) data, built-in pandas functions, 2 basic plots, and markdown cells. 
+Features of this project include: a dictionary, data read in from a local csv, manipulated (sorted) data, built-in pandas functions, 2 basic plots, and markdown cells.
+
+Hope you enjoy!
